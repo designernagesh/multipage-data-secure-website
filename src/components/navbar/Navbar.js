@@ -1,6 +1,6 @@
+import './NavbarStyles.scss';
 import { SiDatabricks } from 'react-icons/si';
 import { FaBars, FaTimes } from 'react-icons/fa';
-import './NavbarStyles.css';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 

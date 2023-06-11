@@ -1,4 +1,4 @@
-import './CloudStyles.css';
+import './CloudStyles.scss';
 
 const Cloud = () => {
     return (

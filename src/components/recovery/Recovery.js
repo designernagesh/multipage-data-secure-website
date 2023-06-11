@@ -1,4 +1,4 @@
-import './RecoveryStyles.css';
+import './RecoveryStyles.scss';
 
 const Recovery = () => {
     return (

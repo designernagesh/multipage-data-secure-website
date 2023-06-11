@@ -1,8 +1,8 @@
+import './FooterStyles.scss';
 import { SiDatabricks } from 'react-icons/si';
 import { BsFillArrowUpCircleFill } from 'react-icons/bs'
 import { FiMail, FiFacebook, FiGithub, FiInstagram, FiLinkedin, FiDribbble } from 'react-icons/fi';
 import { Link } from 'react-scroll';
-import './FooterStyles.css';
 
 const Footer = () => {
     return (

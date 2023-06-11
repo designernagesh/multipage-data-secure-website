@@ -1,4 +1,4 @@
-import './DataStyles.css';
+import './DataStyles.scss';
 
 const Data = () => {
     return (
